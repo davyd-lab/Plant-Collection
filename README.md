@@ -1,2 +1,2 @@
 # Plant-Collection
-Native App to keep track of your plants.
+React Native App to keep track of your plants.

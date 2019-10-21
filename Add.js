@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import { AsyncStorage, Text, View, TextInput, StyleSheet, Button, Alert} from 'react-native';
 import { createAppContainer, createDrawerNavigator, createStackNavigator } from "react-navigation";
 
-
 // let UID123_object = {
 //   Genus: 'Chris',
 //   traits: {Genus: 'brown', Species: 'brown'},
